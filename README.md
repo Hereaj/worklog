@@ -25,3 +25,6 @@ This repository tracks progress from my AutoStereo Software Engineering internsh
 - **Day 3:** Implemented the programs page for EDSO.
 - **Day 4:** Implemented the clients page for EDSO.
 - **Day 5:** Performed live testing and finalized code.
+
+## Weekly Logs
+- [Internship Logs](internship/README.md)
