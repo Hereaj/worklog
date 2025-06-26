@@ -1,0 +1,6 @@
+# Internship Weekly Log
+
+This folder contains weekly progress logs for my AutoStereo Software Engineering internship. Each page details the work completed during that specific week.
+
+## Weeks
+- [Week 1](week1.md)
