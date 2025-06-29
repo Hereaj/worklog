@@ -23,7 +23,7 @@ This repository tracks progress from my AutoStereo Software Engineering internsh
 
 ### Week 1
 - **Day 1:** Set up tools, ran initial tests, and began front-end development.
-- **Day 2:** Built the PostgreSQL backend and EDSO dashboard using Vibe coding.
+- **Day 2:** Built the Postgrd EDSO dashboard using Vibe coding.
 - **Day 3:** Implemented the programs page for EDSO.
 - **Day 4:** Implemented the clients page for EDSO.
 - **Day 5:** Performed live testing and finalized code.
