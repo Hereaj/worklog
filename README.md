@@ -20,11 +20,12 @@ This repository tracks progress from my AutoStereo Software Engineering internsh
 - Implemented solutions, fixed problems, and debugged tests with AI assistance.
 
 ## Week Summary
-- **Day 1:** Set up tools, ran initial tests, and began front-end development.
-- **Day 2:** Built the PostgreSQL backend and EDSO dashboard using Vibe coding.
-- **Day 3:** Implemented the programs page for EDSO.
-- **Day 4:** Implemented the clients page for EDSO.
-- **Day 5:** Performed live testing and finalized code.
+- **Day 1:** Created coach-side client management and workout calendar.
+- **Day 2:** Linked client app to the production database and improved calendar navigation.
+- **Day 3:** Organized workouts by date and fixed timezone bugs.
+- **Day 4:** Implemented secure JWT login with email invitations.
+- **Day 5:** Added workout results storage and completion tracking.
+- **Day 6:** Optimized the codebase and polished the interface.
 
 ## Weekly Logs
 - [Internship Logs](internship/README.md)
