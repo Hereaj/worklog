@@ -1,6 +1,6 @@
 # worklog
 
-This repository tracks progress from my AutoStereo Software Engineering internship. Below is a summary of the major tasks completed last week.
+This repository tracks progress from my AutoStereo Software Engineering internship. Below is a summary of the major tasks completed each week.
 
 ## Tools Learned
 - Replit
@@ -19,7 +19,16 @@ This repository tracks progress from my AutoStereo Software Engineering internsh
 - Developed detailed plans with Codex and iterated on improvements.
 - Implemented solutions, fixed problems, and debugged tests with AI assistance.
 
-## Week Summary
+## Week Summaries
+
+### Week 1
+- **Day 1:** Set up tools, ran initial tests, and began front-end development.
+- **Day 2:** Built the Postgrd EDSO dashboard using Vibe coding.
+- **Day 3:** Implemented the programs page for EDSO.
+- **Day 4:** Implemented the clients page for EDSO.
+- **Day 5:** Performed live testing and finalized code.
+
+### Week 2 (June 23–28, 2025)
 - **Day 1:** Created coach-side client management and workout calendar.
 - **Day 2:** Linked client app to the production database and improved calendar navigation.
 - **Day 3:** Organized workouts by date and fixed timezone bugs.
@@ -29,3 +38,4 @@ This repository tracks progress from my AutoStereo Software Engineering internsh
 
 ## Weekly Logs
 - [Internship Logs](internship/README.md)
+- [Detailed Summaries](weekly_summaries)
