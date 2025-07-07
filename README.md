@@ -36,6 +36,14 @@ This repository tracks progress from my AutoStereo Software Engineering internsh
 - **Day 5:** Added workout results storage and completion tracking.
 - **Day 6:** Optimized the codebase and polished the interface.
 
+### Week 3 (June 30–July 6, 2025)
+- **Day 1:** Built React Native app with Expo Router and tab navigation.
+- **Day 2:** Completed authentication flow with login, password reset, and session storage.
+- **Day 3:** Created workouts, profile, explore, and workout detail screens.
+- **Day 4:** Added gradient buttons, styled inputs, and swipeable workout views.
+- **Day 5:** Implemented date-based navigation, completion tracking, and pull-to-refresh.
+- **Day 6:** Finalized Expo configuration with smooth animations for iOS and Android.
+
 ## Weekly Logs
 - [Internship Logs](internship/README.md)
 - [Detailed Summaries](weekly_summaries)
