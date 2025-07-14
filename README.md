@@ -44,6 +44,15 @@ This repository tracks progress from my AutoStereo Software Engineering internsh
 - **Day 5:** Implemented date-based navigation, completion tracking, and pull-to-refresh.
 - **Day 6:** Finalized Expo configuration with smooth animations for iOS and Android.
 
+### Week 4 (July 7–July 13, 2025)
+- **Day 1:** Built the app with Expo Go and tested the mobile build.
+- **Day 2:** Unified button colors and shapes for consistent UI.
+- **Day 3:** Learned EAS configuration and launched an iOS test build.
+- **Day 4:** Updated the review page after rejection and resubmitted; added class features in the coach app.
+- **Day 5:** Fixed add/delete workout bugs in the mobile app.
+- **Day 6:** Resolved coach app issues with workouts, clients, programs, and classes.
+- **Day 7:** Released the mobile client app on the Apple App Store.
+
 ## Weekly Logs
 - [Internship Logs](internship/README.md)
 - [Detailed Summaries](weekly_summaries)
