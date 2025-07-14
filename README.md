@@ -9,6 +9,11 @@ This repository tracks progress from my AutoStereo Software Engineering internsh
 - Cursor
 - WinSurf
 - Connecting MCPs to Visual Studio Code
+- React Native
+- Expo Router
+- Expo Go
+- EAS CLI (Expo Application Services)
+- TestFlight & App Store Connect
 
 ## Projects
 - **Resume app:** enhanced with AI-assisted planning and debugging.
