@@ -58,6 +58,13 @@ This repository tracks progress from my AutoStereo Software Engineering internsh
 - **Day 6:** Resolved coach app issues with workouts, clients, programs, and classes.
 - **Day 7:** Released the mobile client app on the Apple App Store.
 
+### Week 5 (July 14–July 20, 2025)
+- **Day 1:** Implemented the class attendance feature in the mobile app.
+- **Day 2:** Handled race conditions from coach and client concurrency and updated the UI with a blue-purple gradient.
+- **Day 3:** Added client list viewing feature.
+- **Day 4–6:** Troubleshooting and debugging.
+- **Day 7:** Narrowed down the class attendance issue and began rebuilding, reaching 70% completion.
+
 ## Weekly Logs
 - [Internship Logs](internship/README.md)
 - [Detailed Summaries](weekly_summaries)
