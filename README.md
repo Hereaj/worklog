@@ -21,7 +21,7 @@ This repository tracks progress from my AutoStereo Software Engineering internsh
 - **Resume app:** enhanced with AI-assisted planning and debugging.
 - **EDSO workout calendar:** application for coaches to manage programs and assign workouts to clients. Supports full CRUD operations for tracking workouts.
 
-## Workout Highlights
+## Workflow Highlights
 - Used agent tools, Lovable and Replit, concurrently to optimize both front end and back end development.
 - Developed detailed plans with Codex and iterated on improvements.
 - Implemented solutions, fixed problems, and debugged tests with AI assistance.
