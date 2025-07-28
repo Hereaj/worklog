@@ -14,6 +14,8 @@ This repository tracks progress from my AutoStereo Software Engineering internsh
 - Expo Go
 - EAS CLI (Expo Application Services)
 - TestFlight & App Store Connect
+- App Store release/update process
+- Google Play Store release with EAS
 
 ## Projects
 - **Resume app:** enhanced with AI-assisted planning and debugging.
@@ -23,6 +25,8 @@ This repository tracks progress from my AutoStereo Software Engineering internsh
 - Used agent tools, Lovable and Replit, concurrently to optimize both front end and back end development.
 - Developed detailed plans with Codex and iterated on improvements.
 - Implemented solutions, fixed problems, and debugged tests with AI assistance.
+- Finalized the class attendance feature and introduced biometric login for the mobile app.
+- Streamlined the release cycle for iOS and Android using EAS for App Store and Google Play.
 
 ## Week Summaries
 
@@ -64,6 +68,14 @@ This repository tracks progress from my AutoStereo Software Engineering internsh
 - **Day 3:** Added client list viewing feature.
 - **Day 4–6:** Troubleshooting and debugging.
 - **Day 7:** Narrowed down the class attendance issue and began rebuilding, reaching 70% completion.
+
+### Week 6 (July 21–July 27, 2025)
+- **Day 1:** Finished the class attendance feature in the mobile app.
+- **Day 2:** Fixed race conditions and added biometric login.
+- **Day 3:** App Store requested a review of the updated version.
+- **Day 4:** Added Google Play data deletion request feature in the coach app.
+- **Day 5–6:** Attempted to build a gym entity with coach subset; build failed and rolled back.
+- **Day 7:** Planned fixes and next steps.
 
 ## Weekly Logs
 - [Internship Logs](internship/README.md)
