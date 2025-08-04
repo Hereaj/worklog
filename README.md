@@ -77,6 +77,13 @@ This repository tracks progress from my AutoStereo Software Engineering internsh
 - **Day 5–6:** Attempted to build a gym entity with coach subset; build failed and rolled back.
 - **Day 7:** Planned fixes and next steps.
 
+### Week 7 (July 28–August 3, 2025)
+- **Day 1:** Built the Gym entity.
+- **Day 2–3:** Developed the "restap" React Native mobile app to track rest time between workout sets.
+- **Day 4–5:** Troubleshot issues related to the gym entity.
+- **Day 6:** Off.
+- **Day 7:** Completed the gym feature enabling coaches to manage clients by gym.
+
 ## Weekly Logs
 - [Internship Logs](internship/README.md)
 - [Detailed Summaries](weekly_summaries)
