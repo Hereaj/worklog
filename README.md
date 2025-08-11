@@ -84,6 +84,14 @@ This repository tracks progress from my AutoStereo Software Engineering internsh
 - **Day 6:** Off.
 - **Day 7:** Completed the gym feature enabling coaches to manage clients by gym.
 
+### Week 8 (August 4–August 10, 2025)
+- **Day 1:** Resolved a git merge conflict by force pushing a rollback.
+- **Day 2:** Fixed minor CRUD operation issues in the app.
+- **Day 3:** Created a testbed gym and programs for universal client testing.
+- **Day 4:** Implemented an MCP server for testing and explored the GPT-5 model with IDEs like Lovable, Cursor, and ChatGPT.
+- **Day 5:** Began collecting feedback from beta test users.
+- **Day 6–7:** Built a personalized travel-route MCP server to validate local and virtual deployment.
+
 ## Weekly Logs
 - [Internship Logs](internship/README.md)
 - [Detailed Summaries](weekly_summaries)
