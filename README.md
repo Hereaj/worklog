@@ -1,6 +1,6 @@
 # worklog
 
-This repository tracks progress from my AutoStereo Software Engineering internship. Below is a summary of the major tasks completed each week.
+This repository tracks progress from my Autosterea Software Engineering internship. Below is a summary of the major tasks completed each week.
 
 ## Tools Learned
 - Replit
@@ -8,7 +8,7 @@ This repository tracks progress from my AutoStereo Software Engineering internsh
 - Codex OpenAI
 - Cursor
 - WinSurf
-- Connecting MCPs to Visual Studio Code
+- Building, testing, and running MCPs in the local/virtual environments.
 - React Native
 - Expo Router
 - Expo Go
@@ -22,7 +22,7 @@ This repository tracks progress from my AutoStereo Software Engineering internsh
 - **EDSO workout calendar:** application for coaches to manage programs and assign workouts to clients. Supports full CRUD operations for tracking workouts.
 
 ## Workflow Highlights
-- Used agent tools, Lovable and Replit, concurrently to optimize both front end and back end development.
+- Used agent tools, Lovable and Replit, concurrently to optimize both frontend and backend development.
 - Developed detailed plans with Codex and iterated on improvements.
 - Implemented solutions, fixed problems, and debugged tests with AI assistance.
 - Finalized the class attendance feature and introduced biometric login for the mobile app.
