@@ -24,7 +24,7 @@ This repository tracks progress from my Autosterea Software Engineering internsh
 - **EDSO workout calendar:** application for coaches to manage programs and assign workouts to clients. Supports full CRUD operations for tracking workouts.
 - **Restap app:** React Native timer for tracking rest intervals between workout sets.
 - **Travel-route MCP server:** personalized routes validated in local and virtual environments.
-- **Aurora-alert MCP server:** predicts auroras using US Postal data and HTTP deployment.
+- **Aurora-alert MCP server:** predicts auroras using NOAA data and HTTP deployment.
 
 ## Workflow Highlights
 - Used agent tools, Lovable and Replit, concurrently to optimize both frontend and backend development.
@@ -105,7 +105,7 @@ This repository tracks progress from my Autosterea Software Engineering internsh
 - **Day 1:** Built a personalized travel-route MCP server for local and virtual testing.
 - **Day 2–3:** Fixed UI on the /gyms page preparing for a gyms calendar where clients can browse assigned workouts.
 - **Day 4:** Gathered UX requirements, created the database schema and frontend components, and parsed 50 movement metrics into CSV for client tracking.
-- **Day 5:** Resolved issues from the "measures" feature syncing gym and client pages and built an Aurora-alert MCP server to predict auroras using US PO data.
+- **Day 5:** Resolved issues from the "measures" feature syncing gym and client pages and built an Aurora-alert MCP server to predict auroras using NOAA data.
 - **Day 6:** Ran Restap EAS build and locally tested the Aurora-alert server over HTTP for deployment.
 - **Day 7:** Off.
 ## Weekly Logs
