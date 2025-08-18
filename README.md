@@ -23,7 +23,6 @@ This repository tracks progress from my Autosterea Software Engineering internsh
 - **Resume app:** enhanced with AI-assisted planning and debugging.
 - **EDSO workout calendar:** application for coaches to manage programs and assign workouts to clients. Supports full CRUD operations for tracking workouts.
 - **Restap app:** React Native timer for tracking rest intervals between workout sets.
-- **Gym management features:** introduced gym entity and upcoming gym calendar for organizing clients.
 - **Travel-route MCP server:** personalized routes validated in local and virtual environments.
 - **Aurora-alert MCP server:** predicts auroras using US Postal data and HTTP deployment.
 
