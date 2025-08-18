@@ -7,7 +7,7 @@ This repository tracks progress from my Autosterea Software Engineering internsh
 - Lovable
 - Codex OpenAI
 - Cursor
-- WinSurf
+- WindSurf
 - Building, testing, and running MCPs in the local/virtual environments.
 - React Native
 - Expo Router
