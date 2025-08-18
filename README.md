@@ -92,6 +92,13 @@ This repository tracks progress from my Autosterea Software Engineering internsh
 - **Day 5:** Began collecting feedback from beta test users.
 - **Day 6–7:** Built a personalized travel-route MCP server to validate local and virtual deployment.
 
+### Week 9 (August 11–August 17, 2025)
+- **Day 1:** Built a personalized travel-route MCP server for local and virtual testing.
+- **Day 2–3:** Fixed UI on the /gyms page preparing for a gyms calendar where clients can browse assigned workouts.
+- **Day 4:** Gathered UX requirements, created the database schema and frontend components, and parsed 50 movement metrics into CSV for client tracking.
+- **Day 5:** Resolved issues from the "measures" feature syncing gym and client pages and built an Aurora-alert MCP server to predict auroras using US PO data.
+- **Day 6:** Ran Restap EAS build and locally tested the Aurora-alert server over HTTP for deployment.
+- **Day 7:** Off.
 ## Weekly Logs
 - [Internship Logs](internship/README.md)
 - [Detailed Summaries](weekly_summaries)
