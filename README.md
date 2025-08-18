@@ -8,7 +8,7 @@ This repository tracks progress from my Autosterea Software Engineering internsh
 - Codex OpenAI
 - Cursor
 - WindSurf
-- Building, testing, and running MCPs in the local/virtual environments.
+- Built and deployed custom MCP servers (travel-route, aurora-alert) in local and virtual HTTP environments.
 - React Native
 - Expo Router
 - Expo Go
@@ -16,10 +16,16 @@ This repository tracks progress from my Autosterea Software Engineering internsh
 - TestFlight & App Store Connect
 - App Store release/update process
 - Google Play Store release with EAS
+- GPT-5 model exploration in IDEs such as Lovable and Cursor
+- CSV parsing and beta feedback workflows
 
 ## Projects
 - **Resume app:** enhanced with AI-assisted planning and debugging.
 - **EDSO workout calendar:** application for coaches to manage programs and assign workouts to clients. Supports full CRUD operations for tracking workouts.
+- **Restap app:** React Native timer for tracking rest intervals between workout sets.
+- **Gym management features:** introduced gym entity and upcoming gym calendar for organizing clients.
+- **Travel-route MCP server:** personalized routes validated in local and virtual environments.
+- **Aurora-alert MCP server:** predicts auroras using US Postal data and HTTP deployment.
 
 ## Workflow Highlights
 - Used agent tools, Lovable and Replit, concurrently to optimize both frontend and backend development.
@@ -27,6 +33,10 @@ This repository tracks progress from my Autosterea Software Engineering internsh
 - Implemented solutions, fixed problems, and debugged tests with AI assistance.
 - Finalized the class attendance feature and introduced biometric login for the mobile app.
 - Streamlined the release cycle for iOS and Android using EAS for App Store and Google Play.
+- Built gym entity and the Restap app to manage clients by gym and track rest times.
+- Resolved git merge conflicts and created a testbed gym for universal client testing.
+- Developed personalized travel-route and aurora-alert MCP servers and verified HTTP deployment.
+- Parsed movement metrics into CSV and gathered beta feedback to sync measures across gym and client pages.
 
 ## Week Summaries
 
