@@ -1,7 +1,7 @@
 # Week 1
 
 ## Overview
-This week focused on setting up tools, building application features, and completing initial tests for the AutoStereo projects.
+This week focused on setting up tools, building application features, and completing initial tests for the Autosterea projects.
 
 ## Day-by-Day Summary
 - **Day 1:** Set up tools, ran initial tests, and began front-end development.
