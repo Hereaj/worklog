@@ -108,6 +108,13 @@ This repository tracks progress from my Autosterea Software Engineering internsh
 - **Day 5:** Resolved issues from the "measures" feature syncing gym and client pages and built an Aurora-alert MCP server to predict auroras using NOAA data.
 - **Day 6:** Ran Restap EAS build and locally tested the Aurora-alert server over HTTP for deployment.
 - **Day 7:** Off.
+### Week 10 (August 18–August 24, 2025)
+- **Day 1-2:** Enhanced client features, added client notes and an attendance tracker, and debugged errors caused by the new features.
+- **Day 3:** Combined all emails for client and coach accounts within the same gym.
+- **Day 4:** Fixed CRUD operation issues resulting from merging the login system.
+- **Day 5:** Enhanced the sound/haptic system of the "restap" mobile app so users can tell when their sets are done without watching the screen.
+- **Day 6-7:** Off.
+
 ## Weekly Logs
 - [Internship Logs](internship/README.md)
 - [Detailed Summaries](weekly_summaries)
