@@ -16,8 +16,8 @@ This repository tracks progress from my Autosterea Software Engineering internsh
 - TestFlight & App Store Connect
 - App Store release/update process
 - Google Play Store release with EAS
-- GPT-5 model exploration in IDEs such as Lovable and Cursor
-- CSV parsing and beta feedback workflows
+- Beta feedback workflows
+- User requirements gathering and implmentation
 
 ## Projects
 - **Resume app:** enhanced with AI-assisted planning and debugging.
