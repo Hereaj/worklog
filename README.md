@@ -17,7 +17,7 @@ This repository tracks progress from my Autosterea Software Engineering internsh
 - App Store release/update process
 - Google Play Store release with EAS
 - Beta feedback workflows
-- User requirements gathering and implmentation
+- User requirements gathering and implementation
 
 ## Projects
 - **Resume app:** enhanced with AI-assisted planning and debugging.
