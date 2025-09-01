@@ -115,6 +115,14 @@ This repository tracks progress from my Autosterea Software Engineering internsh
 - **Day 5:** Enhanced the sound/haptic system of the "restap" mobile app so users can tell when their sets are done without watching the screen.
 - **Day 6-7:** Off.
 
+### Week 11 (August 25–August 31, 2025)
+- **Day 1-2:** Built a flexible subscription system letting coaches create tiered membership plans with attendance limits across custom time frames.
+- **Day 3:** Synced class attendance dates with subscription periods to automatically enforce limits.
+- **Day 4:** Fixed a race condition that could overcount check-ins and added repository guidelines for the Codex environment.
+- **Day 5:** Synced the backend server with attendance tracking and the mobile app to honor subscription limits.
+- **Day 6:** Updated backend Coach app API documentation to stay aligned with mobile development.
+- **Day 7:** Off.
+
 ## Weekly Logs
 - [Internship Logs](internship/README.md)
 - [Detailed Summaries](weekly_summaries)
