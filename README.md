@@ -126,9 +126,9 @@ This repository tracks progress from my Autosterea Software Engineering internsh
 ### Week 12 (September 1–September 7, 2025)
 - **Day 1:** Added attendance error handling in the mobile app to block check-ins at the limit.
 - **Day 2:** Built a gyms page with coach management and client read-only view, and fixed Google login via the Firebase EDSO programmer app.
-- **Day 3:** Added a "Measures" tab for clients.
-- **Day 4:** Added an "Attendance" tab so clients can view their status and progress.
-- **Day 5:** Fixed attendance enforcement by applying membership time domains and limits to a single plan.
+- **Day 3:** Added a "Measures" tab for clients in the mobile app.
+- **Day 4:** Added an "Attendance" tab so clients can view their status and progress in the mobile app.
+- **Day 5:** Fixed attendance enforcement by applying membership time domains and limits to a single plan in the mobile app.
 - **Day 6:** Resolved a race condition involving enrollment status, attendance caps, and membership time domains so renewed plans apply correctly.
 - **Day 7:** Off.
 
