@@ -132,6 +132,15 @@ This repository tracks progress from my Autosterea Software Engineering internsh
 - **Day 6:** Resolved a race condition involving enrollment status, attendance caps, and membership time domains so renewed plans apply correctly.
 - **Day 7:** Off.
 
+### Week 13 (September 8–September 14, 2025)
+- **Day 1:** Reinstalled the Autosterea task tracker in a new environment to resolve deployment issues.
+- **Day 2:** Investigated Firebase login failures where development succeeded but production failed.
+- **Day 3:** Continued Firebase troubleshooting to align production authentication with development.
+- **Day 4:** Fixed backend errors that caused the mobile app to remain in a loading state.
+- **Day 5:** Finalized backend fixes to ensure mobile requests respond correctly.
+- **Day 6:** Off.
+- **Day 7:** Updated the EDSO Coach mobile app for Expo SDK 54 and React Native 19.0.0.
+
 ## Weekly Logs
 - [Internship Logs](internship/README.md)
 - [Detailed Summaries](weekly_summaries)
