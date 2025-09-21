@@ -141,6 +141,12 @@ This repository tracks progress from my Autosterea Software Engineering internsh
 - **Day 6:** Off.
 - **Day 7:** Updated the EDSO Coach mobile app for Expo SDK 54 and React Native 19.0.0.
 
+### Week 14 (September 15–September 21, 2025)
+- **Day 1:** Corrected client attendance analysis requests by passing the client JWT token to the coach backend.
+- **Day 2-3:** Repaired attendance leaderboard calls by using the client token and validating the data loads in the mobile app.
+- **Day 4-6:** Polished the /measure, /measures/history, /gyms, /attendance, and /leaderboard screens for consistent layouts.
+- **Day 7:** Off.
+
 ## Weekly Logs
 - [Internship Logs](internship/README.md)
 - [Detailed Summaries](weekly_summaries)
