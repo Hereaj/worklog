@@ -147,6 +147,15 @@ This repository tracks progress from my Autosterea Software Engineering internsh
 - **Day 4-6:** Polished the /measure, /measures/history, /gyms, /attendance, and /leaderboard screens for consistent layouts.
 - **Day 7:** Off.
 
+### Week 15 (September 22–September 28, 2025)
+- **Day 1:** Fixed the mobile attendance and leaderboard pages to match the latest backend logic.
+- **Day 2:** Off.
+- **Day 3:** Documented the EDSO coach frontend and backend architecture to support the EDSO pay app.
+- **Day 4:** Implemented the modular EDSO pay app with EDCO coach login inside the EDSO ecosystem.
+- **Day 5:** Ran deployment tests for the EDSO pay app and confirmed a successful release.
+- **Day 6:** Off.
+- **Day 7:** Resolved git conflicts to finalize the updated EDSO pay implementation.
+
 ## Weekly Logs
 - [Internship Logs](internship/README.md)
 - [Detailed Summaries](weekly_summaries)
