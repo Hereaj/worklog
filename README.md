@@ -157,6 +157,15 @@ This repository tracks progress from my Autosterea Software Engineering internsh
 - **Day 6:** Off.
 - **Day 7:** Resolved git conflicts to finalize the updated EDSO pay implementation.
 
+### Week 16 (September 29–October 5, 2025)
+- **Day 1:** Repaired head coach authentication, error messaging, and gym visibility across the gym membership system and EDSO pay app.
+- **Day 2:** Implemented the EDSO coach frontend action flow and backend subscription assignment API.
+- **Day 3:** Connected the payment hub client and API to the EDSO payment app.
+- **Day 4:** Built Stripe checkout session creation and returned payment URLs for the EDSO pay integration so clients can complete purchases.
+- **Day 5:** Added payment status polling and subscription updates based on transaction outcomes.
+- **Day 6:** Off.
+- **Day 7:** Enabled coach-requested membership start dates and automated attendance limit updates on client check-ins and cancellations.
+
 ## Weekly Logs
 - [Internship Logs](internship/README.md)
 - [Detailed Summaries](weekly_summaries)
