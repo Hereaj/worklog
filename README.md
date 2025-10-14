@@ -166,6 +166,15 @@ This repository tracks progress from my Autosterea Software Engineering internsh
 - **Day 6:** Off.
 - **Day 7:** Enabled coach-requested membership start dates and automated attendance limit updates on client check-ins and cancellations.
 
+### Week 17 (October 6–October 12, 2025)
+- **Day 1:** Prevented confirmation emails from sending when activating memberships through the EDSO coach app and refreshed the client login and overview experience.
+- **Day 2:** Extended the transaction workflow and shipped measurement history support alongside a new API endpoint.
+- **Day 3:** Restyled the `/measures/history`, `/gym`, and `/measures/[id]` screens to match the latest mobile UI and added back buttons on the `/gym` and `/attendance` pages.
+- **Day 4:** Watched OpenAI DevDay 2025 to explore the Agent tool, Response API, ChatKit, and other new capabilities.
+- **Day 5:** Off.
+- **Day 6:** Investigated why memberships remained marked "Active" after their plans expired.
+- **Day 7:** No updates recorded.
+
 ## Weekly Logs
 - [Internship Logs](internship/README.md)
 - [Detailed Summaries](weekly_summaries)
