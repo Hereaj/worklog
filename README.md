@@ -175,6 +175,15 @@ This repository tracks progress from my Autosterea Software Engineering internsh
 - **Day 6:** Investigated why memberships remained marked "Active" after their plans expired.
 - **Day 7:** No updates recorded.
 
+### Week 18 (October 13–October 19, 2025)
+- **Day 1:** Attempted to integrate the recurring payment flow, but the build failed so the changes were rolled back to stabilize the app.
+- **Day 2:** Off.
+- **Day 3:** Built backend APIs for the recurring payment feature and drafted a plan to refine the EDSO payment hub frontend details.
+- **Day 4:** Vacation.
+- **Day 5:** Vacation.
+- **Day 6:** Vacation.
+- **Day 7:** No updates recorded.
+
 ## Weekly Logs
 - [Internship Logs](internship/README.md)
 - [Detailed Summaries](weekly_summaries)
