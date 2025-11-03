@@ -193,6 +193,15 @@ This repository tracks progress from my Autosterea Software Engineering internsh
 - **Day 6:** Vacation.
 - **Day 7:** Vacation.
 
+### Week 20 (October 27–November 2, 2025)
+- **Day 1:** Vacation.
+- **Day 2:** Vacation.
+- **Day 3:** Vacation.
+- **Day 4:** Created snapshot documents for the EDSO coach, EDSO client, and EDSO payment apps to align next steps.
+- **Day 5:** Implemented the recurring payment flow through client notification emails; payments complete but recurring detail visibility remains pending.
+- **Day 6:** Off.
+- **Day 7:** Planned the cannabis B2B app for vendors and retailers while gathering additional requirements from production and stakeholders.
+
 ## Weekly Logs
 - [Internship Logs](internship/README.md)
 - [Detailed Summaries](weekly_summaries)
