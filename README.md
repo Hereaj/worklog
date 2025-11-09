@@ -26,6 +26,7 @@ This repository tracks progress from my Autosterea Software Engineering internsh
 - **Restap app:** React Native timer for tracking rest intervals between workout sets.
 - **Travel-route MCP server:** personalized routes validated in local and virtual environments.
 - **Aurora-alert MCP server:** predicts auroras using NOAA data and HTTP deployment.
+- **Weedus cannabis B2B web app:** vendor and retailer platform to support the cannabis business using React.js and PostgreSQL (Prisma ORM).
 
 ## Workflow Highlights
 - Used agent tools, Lovable and Replit, concurrently to optimize both frontend and backend development.
@@ -201,6 +202,15 @@ This repository tracks progress from my Autosterea Software Engineering internsh
 - **Day 5:** Implemented the recurring payment flow through client notification emails; payments complete but recurring detail visibility remains pending.
 - **Day 6:** Off.
 - **Day 7:** Planned the cannabis B2B app for vendors and retailers while gathering additional requirements from production and stakeholders.
+
+### Week 21 (November 3–November 9, 2025)
+- **Day 1:** Built multiple iterations of the Weedus cannabis B2B web app for vendors and retailers.
+- **Day 2:** Deployed the Weedus application.
+- **Day 3:** Linked the shared database across NeonDB in Replit and the local Cursor IDE environment.
+- **Day 4:** Created vendor and retailer accounts and identified the missing admin approval flow that blocks sign-ins.
+- **Day 5:** Implemented `/profile` and `/settings` pages to flesh out the Weedus app details.
+- **Day 6:** Off.
+- **Day 7:** Off.
 
 ## Weekly Logs
 - [Internship Logs](internship/README.md)
