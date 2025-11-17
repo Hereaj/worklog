@@ -212,6 +212,15 @@ This repository tracks progress from my Autosterea Software Engineering internsh
 - **Day 6:** Off.
 - **Day 7:** Off.
 
+### Week 22 (November 10–November 16, 2025)
+- **Day 1:** Started building the delivery flow for Weedus.
+- **Day 2:** Continued developing the delivery flow.
+- **Day 3:** Detected and fixed a PDF upload bug.
+- **Day 4:** Reorganized architecture for scalable role-based routing and fixed drag-and-drop PDF uploads.
+- **Day 5:** Polished frontend/UX details across settings, ID cards, navigation, and delivery scheduling.
+- **Day 6:** Off.
+- **Day 7:** Enabled retailers to cancel vendor-created deliveries.
+
 ## Weekly Logs
 - [Internship Logs](internship/README.md)
 - [Detailed Summaries](weekly_summaries)
