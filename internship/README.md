@@ -24,3 +24,5 @@ This folder contains weekly progress logs for my Autosterea Software Engineering
 - [Week 19](week19.md)
 - [Week 20](week20.md)
 - [Week 21](week21.md)
+- [Week 22](week22.md)
+- [Week 23](week23.md)

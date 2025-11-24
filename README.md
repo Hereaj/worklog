@@ -221,6 +221,15 @@ This repository tracks progress from my Autosterea Software Engineering internsh
 - **Day 6:** Off.
 - **Day 7:** Enabled retailers to cancel vendor-created deliveries.
 
+### Week 23 (November 17–November 23, 2025)
+- **Day 1:** Prevented vendors from removing requirements documents while allowing updates and enabled sample uploads on the vendor delivery detail page.
+- **Day 2:** Demoed signup/sign-in and delivery flows to stakeholders and gathered feedback for documentation.
+- **Day 3-4:** Built role-based teams features letting owners invite employees via `/employees`, manage roles and contact info, and enforce owner/manager/employee permissions for retailers and vendors.
+- **Day 5:** Stress-tested teams pages, adjusted invites, profile visibility, settings access, and dashboard invoice status for retailers and vendors.
+- **Day 6:** Synced employee dashboards with owner dashboards within the same company.
+- **Day 7:** Off.
+
+
 ## Weekly Logs
 - [Internship Logs](internship/README.md)
 - [Detailed Summaries](weekly_summaries)
