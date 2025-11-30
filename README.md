@@ -229,6 +229,15 @@ This repository tracks progress from my Autosterea Software Engineering internsh
 - **Day 6:** Synced employee dashboards with owner dashboards within the same company.
 - **Day 7:** Off.
 
+### Week 24 (November 24–November 30, 2025)
+- **Day 1:** Created Codex `AGENT.md` guidance, fixed employee ID card logic, and connected the storage URL for PDF uploads.
+- **Day 2:** Raised a new delivery to surface a deployment error and checked date calculation logic in the delivery detail.
+- **Day 3:** Added resume/delete support for draft deliveries, built the `/retailer/deliveries` calendar view, and investigated a deployment issue.
+- **Day 4:** Advanced the messaging module to distinguish retailer and vendor experiences.
+- **Day 5:** Tested app features using the Playwrite MCP workflow.
+- **Day 6:** Implemented message notifications.
+- **Day 7:** Off.
+
 
 ## Weekly Logs
 - [Internship Logs](internship/README.md)
