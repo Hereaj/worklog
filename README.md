@@ -238,6 +238,15 @@ This repository tracks progress from my Autosterea Software Engineering internsh
 - **Day 6:** Implemented message notifications.
 - **Day 7:** Off.
 
+### Week 25 (December 1–December 7, 2025)
+- **Day 1:** Built the retailer inventory feature and finished the basic structure.
+- **Day 2:** Integrated inventory fetching from POSaBIT.
+- **Day 3:** Fixed inventory detail issues, ensured syncs resume from the last successful fetch on failure, and disabled auto sync by default.
+- **Day 4:** Off.
+- **Day 5:** Continued improving inventory details, added customizable auto-sync schedules, and refreshed inventory displays while fetches are in progress.
+- **Day 6:** Gathered requirements for the vendor-side inventory module.
+- **Day 7:** Off.
+
 
 ## Weekly Logs
 - [Internship Logs](internship/README.md)
