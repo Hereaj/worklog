@@ -247,6 +247,13 @@ This repository tracks progress from my Autosterea Software Engineering internsh
 - **Day 6:** Gathered requirements for the vendor-side inventory module.
 - **Day 7:** Off.
 
+### Week 26 (December 8–December 14, 2025)
+- **Day 1:** Refactored redundant functions and implemented the vendor inventory flow that matches vendor licenses to retailer inventory data with search and product filtering on `/vendor/inventory`.
+- **Day 2:** Built the admin team feature to assign additional admins for managing signing-in customers.
+- **Day 3:** Enabled vendors to open ID card details on `/id-card` via the ID card box and added an Autosterea watermark.
+- **Day 4–5:** Worked on relieving POSaBIT inventory fetch bottlenecks.
+- **Day 6–7:** Delivered frontend touch-ups.
+
 
 ## Weekly Logs
 - [Internship Logs](internship/README.md)
