@@ -254,6 +254,15 @@ This repository tracks progress from my Autosterea Software Engineering internsh
 - **Day 4–5:** Worked on relieving POSaBIT inventory fetch bottlenecks.
 - **Day 6–7:** Delivered frontend touch-ups.
 
+### Week 27 (December 15–December 21, 2025)
+- **Day 1:** Expanded admin user management, streamlined `/settings` for admins, surfaced team member invitations, modularized `/user` for location features, and added inline accept/reject buttons in admin signup requests.
+- **Day 2:** Added a supplier filter with license visibility and column sorting in inventory, and built vendor location flows keyed by license numbers.
+- **Day 3:** Built retailer location flows keyed by license numbers and broadened inventory column sorting.
+- **Day 4:** Enabled account deletion for all but `admin@weedus.app` (including via `/users`), set `/dashboard` for “remember me” logins, merged `/retailer/inventory` and `/vendor/inventory` into `/inventory` with role-based rendering, improved duplicate license login errors, restricted sub-manager location edits, added dropdown feedback, and tightened license rules.
+- **Day 5:** Delivered vendor and retailer tutorials and hosted the WeedUS (BETA) launch party with vendors, suppliers, and retailers.
+- **Day 6:** Researched the POSaBIT API and planned a roadmap covering notifications, order/inquiry modules, n8n-driven dashboards, and sales history analytics.
+- **Day 7:** Off.
+
 
 ## Weekly Logs
 - [Internship Logs](internship/README.md)
