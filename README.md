@@ -263,6 +263,15 @@ This repository tracks progress from my Autosterea Software Engineering internsh
 - **Day 6:** Researched the POSaBIT API and planned a roadmap covering notifications, order/inquiry modules, n8n-driven dashboards, and sales history analytics.
 - **Day 7:** Off.
 
+### Week 28 (December 22–December 28, 2025)
+- **Day 1:** Built an arXiv daily cropper agent to gather new CS and STAT articles using OpenAI’s agent builder and ChatKit.
+- **Day 2:** Fixed delivery upload logic for retailers and vendors, collected user requirements through the feedback feature to plan improvements, and refactored/unified code to reduce redundancy.
+- **Day 3:** Added a category workflow to request vendor inventory schemas.
+- **Day 4:** Built the message module frontend for the `/inbox` mailbox experience.
+- **Day 5:** Implemented the vendor catalog and retailer cart.
+- **Day 6:** Fixed backend logic for the catalog module.
+- **Day 7:** Applied hot fixes: corrected vendor location ID card generation returning `[object Object]`, removed the managed license number field so users can edit it with admin approval, ensured owner promotions adjust roles without creating duplicate retailer owners (while keeping vendor behavior intact), let non-original owner-managers remove delivery schedules across locations, and added the delete account component for teammates in `/settings`.
+
 
 ## Weekly Logs
 - [Internship Logs](internship/README.md)
