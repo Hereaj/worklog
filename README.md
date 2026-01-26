@@ -299,6 +299,15 @@ This repository tracks progress from my Autosterea Software Engineering internsh
 - **Day 6:** Fixed the production console log issue in Weedus.
 - **Day 7:** Off.
 
+### Week 32 (January 19–January 25, 2026)
+- **Day 1:** Off.
+- **Day 2:** Bypassed the payment feature with check/ACH and online payment options.
+- **Day 3:** Enhanced the catalog frontend with an Amazon-style image upload flow.
+- **Day 4:** Separated app storage for images, PDFs, and invoices between production and development environments.
+- **Day 5:** Refactored and unified redundant catalog, vendor day, and payment logic across `/components` and `/app`, and finished the login recovery flow (forgot password and find password).
+- **Day 6:** Added vendor day status automation rules so retailers can mark confirmed/modified instances as completed, auto-completed expired instances, and unified the rejected status into canceled.
+- **Day 7:** Enhanced the payment flow by creating deliveries, mapping payment instances 1:1 to deliveries, and syncing payment statuses to delivery statuses while keeping a legacy fallback.
+
 
 ## Weekly Logs
 - [Internship Logs](internship/README.md)
