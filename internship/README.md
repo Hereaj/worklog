@@ -35,3 +35,4 @@ This folder contains weekly progress logs for my Autosterea Software Engineering
 - [Week 30](week30.md)
 - [Week 31](week31.md)
 - [Week 32](week32.md)
+- [Week 33](week33.md)
